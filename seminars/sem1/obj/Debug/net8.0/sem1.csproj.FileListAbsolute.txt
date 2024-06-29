@@ -1,0 +1,14 @@
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\bin\Debug\net8.0\sem1.exe
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\bin\Debug\net8.0\sem1.deps.json
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\bin\Debug\net8.0\sem1.runtimeconfig.json
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\bin\Debug\net8.0\sem1.dll
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\bin\Debug\net8.0\sem1.pdb
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.AssemblyInfo.cs
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.dll
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\refint\sem1.dll
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.pdb
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\sem1.genruntimeconfig.cache
+C:\Users\79137\Desktop\CSHsem\seminars\sem1\obj\Debug\net8.0\ref\sem1.dll

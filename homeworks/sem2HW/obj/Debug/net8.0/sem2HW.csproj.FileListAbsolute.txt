@@ -1,0 +1,14 @@
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.AssemblyInfo.cs
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.csproj.CoreCompileInputs.cache
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\bin\Debug\net8.0\sem2HW.exe
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\bin\Debug\net8.0\sem2HW.deps.json
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\bin\Debug\net8.0\sem2HW.runtimeconfig.json
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\bin\Debug\net8.0\sem2HW.dll
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\bin\Debug\net8.0\sem2HW.pdb
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.dll
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\refint\sem2HW.dll
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.pdb
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\sem2HW.genruntimeconfig.cache
+C:\Users\79137\Desktop\CSHsem\homeworks\sem2HW\obj\Debug\net8.0\ref\sem2HW.dll

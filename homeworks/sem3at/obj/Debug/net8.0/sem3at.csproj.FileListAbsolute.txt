@@ -1,0 +1,4 @@
+C:\Users\79137\Desktop\CSHsem\homeworks\sem3at\obj\Debug\net8.0\sem3at.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79137\Desktop\CSHsem\homeworks\sem3at\obj\Debug\net8.0\sem3at.AssemblyInfoInputs.cache
+C:\Users\79137\Desktop\CSHsem\homeworks\sem3at\obj\Debug\net8.0\sem3at.AssemblyInfo.cs
+C:\Users\79137\Desktop\CSHsem\homeworks\sem3at\obj\Debug\net8.0\sem3at.csproj.CoreCompileInputs.cache
